@@ -1,5 +1,6 @@
 ## Привет 🤙
 Меня зовут Михаил, я QA Engineer. г. Москва
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня зовут Михаил, я QA Engineer. г. Москва)](https://git.io/typing-svg)
 
 ## 📊 Статистика
 

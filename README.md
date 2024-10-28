@@ -22,6 +22,7 @@
 ## Языки программирования
 <div>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" title="Java" alt="JavaScript" width="40" height="40"/>&nbsp
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
 </div>
 

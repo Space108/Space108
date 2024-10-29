@@ -23,6 +23,7 @@
 <div>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
 </div>
 
 ## Тестирование API и интеграций

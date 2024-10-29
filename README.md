@@ -94,7 +94,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com//main/diploma_en.png)
+
 
 
 <br>

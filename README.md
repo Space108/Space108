@@ -1,7 +1,7 @@
 ## Привет 🤙
 Привет! Я Михаил, QA Engineer. Помогаю компаниям запускать и развивать их уникальные проекты, обеспечивая высокое качество и надежность. г. Москва
 
-
+https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg
 
 ## 📊 Статистика
 node updater.js ${{ github.repository_owner }} <powershell>  

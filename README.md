@@ -4,7 +4,7 @@
 
 
 ## 📊 Статистика
-node updater.js ${{ github.repository_owner }} <powershell>  https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/e5d8f9b2ab290011900908f4f4c2a7437fa15ae6/github_stats.svg
+node updater.js ${{ github.repository_owner }} <powershell>  
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Space108
 )
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108

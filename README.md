@@ -13,7 +13,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=nord&username=Space108
+![Header](https://github.com/Space108/assets-/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BD%D0%B0%20C%2B%2B.gif)
 )
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 

@@ -9,11 +9,11 @@
 )
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108
 )
-![Header](https://github.com/Mikhail-Pilot/Mikhail-Kolyadin/main/assets/Код на C++.gif)
+![Header](https://github.com/Space108/assets-/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BD%D0%B0%20C%2B%2B.gif)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![Header](https://github.com/Space108/assets-/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%BD%D0%B0%20C%2B%2B.gif)
+
 )
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 

@@ -10,7 +10,7 @@
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=github_dark_dimmed)
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/1mwdqr51emcAAAPo/test-typing.mp4" width="100"/>
+  <img src="https://tenor.com/ru/view/test-typing-codes-gif-15828752" width="100"/>
 </div>
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

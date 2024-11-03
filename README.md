@@ -6,7 +6,7 @@
 ## 📊 Статистика
  
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=vue-dark)
+![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=transparent)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=vue-dark)
 
 

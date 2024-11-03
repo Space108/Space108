@@ -9,8 +9,8 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=github_dark_dimmed)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=github_dark_dimmed)
 
-<div id="header" align="center">
-  <img src="https://tenor.com/ru/view/test-typing-codes-gif-15828752" width="100"/>
+<div align="center">
+  <img src="[https://tenor.com/ru/view/test-typing-codes-gif-15828752)" width="600" height="300"/>
 </div>
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

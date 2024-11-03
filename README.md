@@ -9,6 +9,7 @@
 )
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108
 )
+![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=vue-dark)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

@@ -8,7 +8,7 @@
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=shadow_green)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=shadow_green)
-![Header](https://github.com/Space108/assets-/blob/master/8.jpg)
+![Header](https://github.com/Space108/assets-/blob/master/8.png)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

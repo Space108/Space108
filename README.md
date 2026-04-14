@@ -6,7 +6,7 @@
 ## 📊 Статистика
  
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Space108&show_icons=true&locale=ru&theme=github_dark)
+![Статистика GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Space108&show_icons=true&theme=tokyonight&locale=ru)
 ![Самые используемые языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=cobalt)
 ![Header](https://github.com/Space108/assets-/blob/master/108.png)
 

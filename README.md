@@ -21,7 +21,7 @@
 <br>
 ## 🚀 Разработчик ИИ | Full-stack Quality 2.0
 <div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" title="AI Developer" alt="AI" width="40" height="40" style="filter: invert(100%);"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" title="AI Developer" alt="AI" width="40" height="40" style="filter: invert(100%);"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp
 </div>
 

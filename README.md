@@ -6,8 +6,8 @@
 ## 📊 Статистика
  
 
-![Статистика](https://github-readme-streak-stats.herokuapp.com/?user=Space108&theme=shadow_red)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=shadow_red)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Space108&show_icons=true&locale=ru&title_color=120a8f&icon_color=120a8f&text_color=ffffff&bg_color=0d1117)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Space108&layout=donut&title_color=120a8f&icon_color=120a8f&text_color=ffffff&bg_color=0d1117&langs_count=8)
 ![Header](https://github.com/Space108/assets-/blob/master/8.png)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 

@@ -21,7 +21,7 @@
 <br>
 ## 🚀 AI Developer | Full-stack Quality 2.0
 <div>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blueprint.svg" title="AI Developer" alt="AI" width="40" height="40" style="filter: invert(100%);"/>&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" title="AI Developer" alt="AI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp
 </div>
 

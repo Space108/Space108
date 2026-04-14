@@ -19,9 +19,9 @@
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
-## 🚀 Разработчик ИИ | Full-stack Quality 2.0
+## 🚀 AI Developer | Full-stack Quality 2.0
 <div>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="AI Developer" alt="AI" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/data-configuration.png" title="AI Architect" alt="AI Atom" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp
 </div>
 

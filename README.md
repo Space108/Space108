@@ -35,8 +35,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
- <img src="https://user-images.githubusercontent.com/25181517/189015886-63309623-6901-4475-802c-490333d02b9e.png" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp
-</div>
+ </div>
 
 ## Тестирование Web и Мобильных приложений
 <div>
@@ -47,6 +46,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+ <img src="https://github.com/microsoft/playwright/raw/main/browser_patches/firefox/checkout/browser/branding/official/default128.png" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги

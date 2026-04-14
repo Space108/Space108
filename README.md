@@ -21,7 +21,7 @@
 <br>
 ## 🚀 Разработчик ИИ | Full-stack Quality 2.0
 <div>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="AI Developer" alt="AI" width="40" height="40" style="filter: invert(100%);"/>&nbsp
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" title="AI Developer" alt="AI" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp
 </div>
 
@@ -77,8 +77,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-</div>
+ </div>
 
 ## Автотесты
 <div>

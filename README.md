@@ -6,7 +6,7 @@
 ## 📊 Статистика
  
 
-![Статистика GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+![Статистика GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff)
 ![Самые используемые языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=dark&bg_color=0d1117&hide_border=true)
 ![Header](https://github.com/Space108/assets-/blob/master/108.png)
 

@@ -7,7 +7,7 @@
  
 
 ![Статистика GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=cobalt)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=react)
+![Самые используемые языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=cobalt)
 ![Header](https://github.com/Space108/assets-/blob/master/108.png)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 

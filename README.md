@@ -6,7 +6,7 @@
 ## 📊 Статистика
  
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Space108&theme=shadow_red)
+![Статистика](https://github-readme-streak-stats.herokuapp.com/?user=Space108&theme=shadow_red)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Space108&theme=shadow_red)
 ![Header](https://github.com/Space108/assets-/blob/master/8.png)
 

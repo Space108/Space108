@@ -8,16 +8,12 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 ![Статистика GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff)
 ![Самые используемые языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=dark&bg_color=0d1117&hide_border=true)
 ![Header](https://github.com/Space108/Space108/blob/master/8.png)
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
-
 
 ## Языки программирования
 <div>

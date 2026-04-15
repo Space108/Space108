@@ -1,4 +1,4 @@
-Привет! Я AI Developer | Full-stack Quality 2.0 | Создаю и тестирую системы нового поколения. 
+AI Developer | Full-stack Quality 2.0 | Создаю и тестирую системы нового поколения. 
 
 
 

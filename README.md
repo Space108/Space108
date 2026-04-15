@@ -14,7 +14,6 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 
 
-
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>

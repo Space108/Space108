@@ -50,13 +50,14 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 <table>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Appium.svg" title="Appium" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" title="Figma" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="HTML" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" title="CSS" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" title="Firebase" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" title="Android Studio" width="40" height="40"/></td>
     <td><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Playwright.svg" title="Playwright" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" width="40" height="40"/></td>
   </tr>
 </table>
 

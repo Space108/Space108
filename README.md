@@ -17,7 +17,7 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 ## Языки программирования
 
-<table>
+<table border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/></td>

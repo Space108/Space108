@@ -5,8 +5,16 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 ## 📊 Статистика
  
 
-![Статистика GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff)
-![Самые используемые языки](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=donut&theme=dark&bg_color=0d1117&hide_border=true)
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 ![Header](https://github.com/Space108/Space108/blob/master/8.png)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

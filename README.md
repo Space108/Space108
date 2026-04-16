@@ -14,7 +14,7 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
     </td>
   </tr>
 </table>
-![Header](https://github.com/Space108/Space108/blob/master/8.png)
+![Заголовок](https://github.com/Space108/Space108/blob/master/8.png?raw=true)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 

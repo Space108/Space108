@@ -27,9 +27,9 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-02ef51b613f2.png" title="Java" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/183423507-da9a9244-344a-4e3d-b25c-0c44edf5d74c.png" title="Python" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868500-af3d-11eb-8939-d8a573453886.png" title="JavaScript" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" title="TypeScript" width="40" height="40"/></td>
   </tr>
 </table>

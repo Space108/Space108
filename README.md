@@ -46,19 +46,18 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
   </tr>
 </table>
 
-## Тестирование Web и Мобильных приложений
+## Тестирование Web и мобильных приложений
 
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Appium.svg" title="Appium" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" width="40" height="40"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" title="Figma" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="HTML" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" title="CSS" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" title="Firebase" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" title="Android Studio" width="40" height="40"/></td>
     <td><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Playwright.svg" title="Playwright" width="40" height="40"/></td>
   </tr>
 </table>
 

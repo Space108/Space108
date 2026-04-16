@@ -47,10 +47,11 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
   </tr>
 </table>
 
-## Тестирование Web и мобильных приложений
+## Тестирование Web и Мобильных приложений
 
 <table>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Appium.svg" title="Appium" width="40" height="40"/></td>
     <td><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" width="40" height="40"/></td>
     <td><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" width="40" height="40"/></td>
     <td><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" width="40" height="40"/></td>

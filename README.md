@@ -50,7 +50,6 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Appium.svg" title="Appium" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" title="Figma" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="HTML" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" title="CSS" width="40" height="40"/></td>

@@ -2,19 +2,20 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 
 
-## 📊 Статистика
- 
-<table border="0">
+<p align="center">
+  <img src="https://github.com/Space108/Space108/blob/master/8.png?raw=true" width="100%" />
+</p>
+
+<table border="0" width="100%">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Space108&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" alt="Most Used Languages" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Space108&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff" />
     </td>
   </tr>
 </table>
-![Заголовок](https://github.com/Space108/Space108/blob/master/8.png?raw=true)
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 

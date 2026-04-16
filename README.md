@@ -4,7 +4,6 @@ AI Developer | Full-stack Quality 2.0 | Создаю и тестирую сис�
 
 ## 📊 Статистика
  
-
 <table border="0">
   <tr>
     <td valign="top">

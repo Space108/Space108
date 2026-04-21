@@ -27,7 +27,10 @@
 ### 🛠 Stack & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
+### 🚀 Основные направления
+* **Autonomous Testing:** Проектирование систем, где ИИ самостоятельно создает и выполняет тесты.
+* **AI Integration:** Внедрение нейросетевых решений в производственные циклы (1С, ERP, T-flex).
+* **Data Engineering:** Автоматизированная проверка и обработка массивов данных через ИИ.
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 

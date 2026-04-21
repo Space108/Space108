@@ -27,10 +27,11 @@
 ### 🛠 Stack & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-###  Специализация (Full-stack Quality 2.0)
-* **Autonomous Testing:** Проектирование систем, где ИИ самостоятельно создает и выполняет тесты, имитируя действия пользователя.
-* **Enterprise AI:** Интеграция нейросетевых решений для верификации сложных производственных данных в ERP-системах.
-* **Data Integrity:** Автоматизированная проверка целостности данных при миграциях между CAD и MES системами.
+### 🛠 Профессиональный опыт
+
+* **AI:** Внедрение нейросетевых инструментов в процессы контроля качества для замены ручных проверок.
+* **Автоматизация:** Разработка сценариев обмена данными и API-интеграций.
+Проектирование систем, где ИИ самостоятельно создает и выполняет тесты, имитируя действия пользователя.
 
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 

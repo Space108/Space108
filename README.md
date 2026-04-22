@@ -1,6 +1,10 @@
-# <span style="color:#1E90FF">AI Developer | Full-stack Quality 2.0</span>
+<br>
+<br>
+<br>
 
->Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&width=800&lines=AI+Developer+|+Full-stack+Quality+2.0" alt="AI Developer" />
+
+Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.
 
 ---
 

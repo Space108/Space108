@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=1E90FF&text=AI%20Developer%20|%20Full-stack%20Quality%202.0&fontSize=32&fontWeight=800&height=50" />
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=1E90FF&text=AI%20Developer%20|%20Full-stack%20Quality%202.0&fontSize=32&fontWeight=800&height=60" alt="AI Developer">
 </p>
 
 Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.

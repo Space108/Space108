@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 ### AI Developer | Full-stack Quality 2.0
 > Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 

@@ -1,8 +1,3 @@
-# AI Developer | Full-stack Quality 2.0
-> Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.
-
-
-
 <p align="center">
   <img src="https://github.com/Space108/Space108/blob/master/8.png?raw=true" width="100%" />
 </p>

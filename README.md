@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=4facfe&text=AI%20Developer%20|%20Full-stack%20Quality%202.0&fontSize=40&height=100" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=1E90FF&text=AI%20Developer%20|%20Full-stack%20Quality%202.0&fontSize=32&fontWeight=800&height=50" />
 </p>
 
-<p align="center">
-  <i>Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.</i>
-</p>
+Разрабатываю и внедряю автономные ИИ-системы для полного цикла контроля качества.
 
 ---
 

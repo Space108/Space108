@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&width=800&lines=AI+Developer+|+Cyber Researcher+" alt="AI Developer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&width=800&lines=AI+Developer+" alt="AI Developer" />
 
 > Разрабатываю и внедряю AI-платформы, нейронных ботов и интеллектуальные системы контроля качества.
 

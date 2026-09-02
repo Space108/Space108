@@ -29,16 +29,16 @@
 
 ---
 
-### Специализация и ключевые направления
+### Specialization & Core Focus
 
-* **Enterprise & On-Premise AI Infrastructure**  
-  Проектирование и развертывание инференс-инфраструктуры для LLM и VLM моделей, в том числе в полностью закрытых (Air-Gapped) контурах без зависимости от внешних API.
+* **Enterprise & On-Premise AI Infrastructure**
+  Designing and deploying LLM/VLM inference architecture in fully isolated, air-gapped environments with zero reliance on external APIs.
 
-* **Hybrid ML & Multimodal Pipelines**  
-  Разработка гибридных машинообучаемых пайплайнов (Vision-LLM, классический ML, OCR) с валидацией контекста и алгоритмической фильтрацией нейросетевых галлюцинаций.
+* **Hybrid ML & Multimodal Pipelines**
+  Building complex data pipelines (Vision-LLM, OCR, classic ML) featuring deterministic context validation and algorithmic hallucination filtering.
 
-* **Cyber Security & High-Resilience Systems**  
-  Разработка платформ анализа внешней поверхности атак (EASM) и отказоустойчивых асинхронных бэкенд-сервисов с защитой от гонок состояний и отравления стейта.
+* **Cyber Security & High-Resilience Systems**
+  Developing External Attack Surface Management (EASM) platforms and highly resilient async backends protected against race conditions and state poisoning.
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 

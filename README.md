@@ -40,7 +40,7 @@
 * **Cyber Security & High-Resilience Systems**<br>
   Developing External Attack Surface Management (EASM) platforms and highly resilient async backends protected against race conditions and state poisoning.
 
-### Contact.
+
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 

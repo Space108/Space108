@@ -29,16 +29,22 @@
 
 ---
 
+### Tech Stack
+
+*(здесь остаются твои плашки со стеком)*
+
 ### Specialization & Core Focus
 
-* **Enterprise & On-Premise AI Infrastructure**
+* **Enterprise & On-Premise AI Infrastructure**<br>
   Designing and deploying LLM/VLM inference architecture in fully isolated, air-gapped environments with zero reliance on external APIs.
 
-* **Hybrid ML & Multimodal Pipelines**
+* **Hybrid ML & Multimodal Pipelines**<br>
   Building complex data pipelines (Vision-LLM, OCR, classic ML) featuring deterministic context validation and algorithmic hallucination filtering.
 
-* **Cyber Security & High-Resilience Systems**
+* **Cyber Security & High-Resilience Systems**<br>
   Developing External Attack Surface Management (EASM) platforms and highly resilient async backends protected against race conditions and state poisoning.
+
+### Contact.
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 

@@ -29,10 +29,6 @@
 
 ---
 
-### Tech Stack
-
-*(здесь остаются твои плашки со стеком)*
-
 ### Specialization & Core Focus
 
 * **Enterprise & On-Premise AI Infrastructure**<br>

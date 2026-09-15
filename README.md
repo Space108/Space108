@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<kbd>AI Architect</kbd> &nbsp;⬢&nbsp; <kbd>LLM Developer</kbd> &nbsp;⬢&nbsp; <kbd>Cybersec</kbd>
+<kbd>AI Architect</kbd> &nbsp;⬢&nbsp; <kbd>LLM Developer</kbd> &nbsp;⬢&nbsp; <kbd>Security Researcher</kbd>
 
 > Architecting zero-trust enterprise AI systems & offensive security tools.
 

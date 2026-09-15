@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=500&duration=3000&color=1E90FF&width=900&lines=AI+Architect•LLM+Developer • Cybersec" alt="Lead ML Architect | LLM Developer | Cybersec"/>
+<kbd>AI Architect</kbd> &nbsp;⬢&nbsp; <kbd>LLM Developer</kbd> &nbsp;⬢&nbsp; <kbd>Cybersec</kbd>
 
 > Architecting zero-trust enterprise AI systems & offensive security tools.
 

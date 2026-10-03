@@ -33,7 +33,7 @@
 
 ### Specialization & Core Focus
 
-* **Enterprise & On-Premise AI Infrastructure**<br>
+* **End-to-End enterprise & On-Premise AI Infrastructure**<br>
   Designing and deploying LLM/VLM inference architecture in fully isolated, air-gapped environments with zero reliance on external APIs.
 
 * **Hybrid ML & Multimodal Pipelines**<br>

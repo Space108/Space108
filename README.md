@@ -33,17 +33,17 @@
 
 ### Specialization & Core Focus
 
-* **End-to-End enterprise & On-Premise AI Infrastructure**<br>
+* **End-to-End Enterprise & On-Premise AI Infrastructure**
   Designing and deploying LLM/VLM inference architecture in fully isolated, air-gapped environments with zero reliance on external APIs.
 
-* **Hybrid ML & Multimodal Pipelines**<br>
+* **Hybrid ML & Multimodal Pipelines**
   Building complex data pipelines (Vision-LLM, OCR, classic ML) featuring deterministic context validation and algorithmic hallucination filtering.
 
-* **Cyber Security & High-Resilience Systems**<br>
+* **Cyber Security & High-Resilience Systems**
   Developing External Attack Surface Management (EASM) platforms and highly resilient async backends protected against race conditions and state poisoning.
 
-* **Time-Series Anomaly & Telemetry Engines
-Engineering Go/Python streaming detectors (mmap, z-score ensembles, multi-stage veto) for scientific and industrial telemetry.
+* **Time-Series Anomaly & Telemetry Engines**
+  Engineering Go/Python streaming detectors (mmap, z-score ensembles, multi-stage veto) for scientific and industrial telemetry.
 
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 

@@ -6,7 +6,7 @@
 ![LLM Developer](https://img.shields.io/badge/LLM_Developer-092E20?style=for-the-badge)
 ![Security Researcher](https://img.shields.io/badge/Security_Researcher-8A2BE2?style=for-the-badge)
 
-> Architecting zero-trust enterprise AI systems & offensive security tools.
+> > **SpaceQ R&D** — Architecting zero-trust Enterprise AI systems & telemetry engines.
 
 ---
 
